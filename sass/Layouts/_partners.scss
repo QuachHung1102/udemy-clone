@@ -1,0 +1,23 @@
+.partners {
+    background-color: $color-gray-5;
+    padding-top: $pd-3;
+    .partners__content {
+        text-align: center;
+        width: 75%;
+        margin: 0 auto;
+        .partners__header {
+            text-align: center;
+            font-weight: $fw-1;
+            text-transform: uppercase;
+        }
+    }
+    .partners__img {
+        .partners__items {
+            .row {
+                .col-2 {
+                    text-align: center;
+                }
+            }
+        }
+    }
+}
